@@ -15,18 +15,6 @@ The VPSBG.eu [App Templates](https://www.vpsbg.eu/app-templates) repository cont
 
 By open-sourcing these templates, we aim to provide transparency and empower our customers to customize and adapt the installation process according to their specific requirements.
 
-## Available Recipes
-
-The following recipes are currently available in this repository:
-
-1. `cyberpanel.sh`: Installs CyberPanel, a web hosting control panel.
-2. `docker.sh`: Sets up Docker, an open-source platform for containerization.
-3. `nextcloud.sh`: Installs Nextcloud, a self-hosted file sync and share application.
-4. `wireguard.sh`: Configures WireGuard, a fast and modern VPN protocol.
-5. `wordpress-debian.sh`: Installs WordPress on a Debian-based system.
-6. `wordpress-rhel.sh`: Installs WordPress on a Red Hat Enterprise Linux-based system.
-7. `mysql.sh`: Installs MySQL, a widely used relational database management system.
-
 Each recipe is designed to be self-contained and can be customized as per your requirements. Feel free to modify the scripts to add extra functionality or make adjustments based on your requirements.
 
 ## Contributing
