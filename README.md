@@ -5,7 +5,6 @@ Welcome to the VPSBG.eu App Templates repository! Here, you will find a collecti
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Available Recipes](#available-recipes)
 - [Contributing](#contributing)
 - [License](#license)
 
